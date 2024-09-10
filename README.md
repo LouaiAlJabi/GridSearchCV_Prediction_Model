@@ -4,8 +4,8 @@ This is a project I did for a class. I used an open-source database showing cust
 
 **Installation:**
 ```bash
-git clone https://github.com/LouaiAlJabi/GridSearchCV_Prediction_Model.git
-cd Bootstrap
+git clone https://github.com/LouaiAlJabi/Diabetes_Prediction_Model.git
+cd Diabetes_Prediction_Model
 
 pip install -r requirements.txt
 ```
